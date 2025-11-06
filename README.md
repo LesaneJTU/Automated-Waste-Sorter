@@ -1,1 +1,20 @@
 # Automated-Waste-Sorter
+
+## **Table of Contents**
+- [Repository Content](#repository-content)  
+- [About Automated Waste Sorter Documentation](#about-autonanobot-documentation)  
+- [Acknowledgment](#acknowledgment)  
+- [Introduction](#introduction)  
+- [Objective](#objective)  
+- [Functionalities](#functionalities)  
+- [Hardware Requirements](#hardware-requirements)  
+- [Software Requirements](#software-requirements)  
+- [Project Description](#project-description)  
+- [Applications](#applications)  
+- [Performance Flow](#performance-flow)  
+- [How to Use / Setup Instructions](#how-to-use--setup-instructions)
+- [Circuit Diagram](#Circuit-Diagram)
+- [Performance Flow](#Performance-Flow)
+- [Image Of Prototype](#Image-Of-Prototype)
+- [Video Of Prototype Build](#Image-Of-Prototype-Build)
+- [Conclusion](#conclusion)  
