@@ -212,6 +212,12 @@ Circuit diagrams are available in the repository as:
 
 ---
 
+## **Video Of Prototype Build**
+
+https://www.youtube.com/watch?v=wcsxABCgGAs&t=8s 
+
+---
+
 ## **Conclusion**
 
 The Automated Waste Sorter effectively illustrates how wireless communication, artificial intelligence, and embedded systems can be combined to automate waste sorting and classification.
