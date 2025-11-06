@@ -214,8 +214,8 @@ Circuit diagrams are available in the repository as:
 
 ## **Conclusion**
 
-The **Automated Waste Sorter** successfully demonstrates how **embedded systems, AI, and wireless communication** can be integrated to automate waste classification and sorting.  
+The Automated Waste Sorter effectively illustrates how wireless communication, artificial intelligence, and embedded systems can be combined to automate waste sorting and classification.
 
-The system accurately detects materials using an Edge Impulse-trained model on the ESP32-CAM, communicates results via ESP-NOW, and physically sorts waste into the correct bins using servo motors. Visual feedback is provided through LEDs and an OLED display, making the process intuitive and easy to monitor.  
+Using an Edge Impulse-trained model on the ESP32-CAM, the system detects materials with accuracy. It uses servo motors to physically sort waste into the appropriate bins and communicates the results via ESP-NOW. LEDs and an OLED display provide visual feedback, which makes the process simple to understand and monitor.
 
-This project not only promotes **sustainable waste management** but also serves as a practical platform for learning about **IoT, embedded programming, and AI deployment**. Future improvements could include expanding material types, improving detection accuracy, or integrating data logging for analytics.
+In addition to encouraging sustainable waste management, this project offers a hands-on learning environment for embedded programming, IoT, and AI deployment. Future enhancements might involve adding more material types, increasing the precision of detection, or incorporating data logging for analytics.
